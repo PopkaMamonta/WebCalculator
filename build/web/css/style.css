@@ -35,11 +35,12 @@ body {
   border-bottom: dotted 1px;
 }
 
-.calc-typed {
-  margin-top: 20px;
-  font-size: 45px;
-  text-align: right;
+.input{
+  width: 260px;
+  font-size: 40px;
   color: #fff;
+  word-break: break-all;
+  padding-right: 10px;
 }
 
 .calc-button-row {
